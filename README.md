@@ -1,2 +1,2 @@
 # Fall-Research
-Estimating costs of human capital in war effected 
+Human capital + skill formation losses from war
